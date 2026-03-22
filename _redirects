@@ -1,0 +1,11 @@
+# Netlify Redirects — Clean URLs
+/blog/march-2026-uk-tax-deadlines /blog/march-2026-uk-tax-deadlines.html 200
+/blog/uk-accounting-outsourcing-revenue-margins /blog/uk-accounting-outsourcing-revenue-margins.html 200
+/blog/february-2026-uk-tax-dates /blog/february-2026-uk-tax-dates.html 200
+/blog/self-assessment-checklist-uk /blog/self-assessment-checklist-uk.html 200
+/blog/uk-tax-mistakes-self-assessment /blog/uk-tax-mistakes-self-assessment.html 200
+/blog /blog/index.html 200
+/services /services.html 200
+/about /about.html 200
+/contact /contact.html 200
+/privacy /privacy.html 200
